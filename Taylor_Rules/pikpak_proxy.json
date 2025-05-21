@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "access.mypikpak.com",
+        "access.mypikpak.net",
+        "access.mypikpak.me",
+        "access.pikpakdrive.com",
+        "adjust.mypikpak.com",
+        "api-audit.mypikpak.com",
+        "api-drive.mypikpak.com",
+        "api-drive.mypikpak.net",
+        "api-drive.mypikpak.me",
+        "api-drive.pikpakdrive.com",
+        "api-feedback.mypikpak.com",
+        "config.mypikpak.com",
+        "copyright.mypikpak.com",
+        "drive.mypikpak.com",
+        "feedback.mypikpak.com",
+        "i.mypikpak.com",
+        "inapp.mypikpak.com",
+        "info.mypikpak.com",
+        "pay-gateway.mypikpak.com",
+        "pay-gateway.mypikpak.net",
+        "pay.mypikpak.com",
+        "pay.mypikpak.net",
+        "static.mypikpak.com",
+        "toapp.mypikpak.com",
+        "user.mypikpak.com",
+        "user.mypikpak.net",
+        "user.mypikpak.me",
+        "www.copyright.mypikpak.com",
+        "www.drive.mypikpak.com",
+        "www.mypikpak.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "dlandroid.rcv.sandai.net",
+        "hub5idx.v6.shub.sandai.net",
+        "hub5pn.wap.sandai.net",
+        "hub5pnc.sandai.net",
+        "hub5pr.v6.phub.sandai.net",
+        "hubciddata.sandai.net"
+      ]
+    }
+  ]
+}
