@@ -2,4 +2,4 @@
 #!homepage=https://github.com/TaylorSoong/CodeSpace
 
 [Rule]
-IP-CIDR, 10.0.0.1/27, GoHome
+IP-CIDR, 10.0.0.0/27, GoHome
